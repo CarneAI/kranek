@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Builder",
+  "description": "A powerful AI-driven full-stack web generator with real-time code preview, multi-model selection UI, and integrated browser testing.",
+  "requestFramePermissions": []
+}
